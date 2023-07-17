@@ -1,5 +1,4 @@
 # Gender-Specific Speech Emotion Recognition
-# Emotion Recognition App with Gender-Specific Acoustic Variance
 
 ## Description
 The goal of this project is to develop an innovative mobile app capable of accurately recognizing emotional states by addressing acoustic variance between genders. We aim to achieve this by utilizing a gender-specific dataset and employing advanced machine learning and deep learning techniques.
